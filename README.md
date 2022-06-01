@@ -1,6 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
-
+# BigTimi
+A Personal portofolio page built for timilehin bello 
 
 
 
